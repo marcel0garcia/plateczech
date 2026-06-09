@@ -2,10 +2,7 @@
 
 A terminal-based tool for checking the availability of Florida vanity license plates against the Florida DMV.
 
-```
-  F L O R I D A   P L A T E C Z E C H
-  Florida Vanity Plate Availability Scanner
-```
+<img width="859" height="312" alt="image" src="https://github.com/user-attachments/assets/89212d60-a915-4e94-89ff-a6f7c4fbccbb" />
 
 ## Features
 
