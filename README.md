@@ -14,9 +14,15 @@ A terminal-based tool for checking the availability of Florida vanity license pl
 - **Single plate check** — live DMV lookup for any specific plate
 - **Reverify** — re-check all AVAILABLE plates to confirm they're still open
 - **Results browser** — filter by type, length, or text
+
+<img width="872" height="176" alt="image" src="https://github.com/user-attachments/assets/51a47ac0-6a50-4013-9f15-97964792f9c5" />
+
+
 - Persistent SQLite database — results survive between sessions
 - Configurable scan speed (Fast / Standard / Careful)
 - Live progress display with real-time found-plate feed
+
+<img width="1216" height="579" alt="image" src="https://github.com/user-attachments/assets/f0984a46-b377-413e-9962-aa32977528f7" />
 
 ## Requirements
 
@@ -26,7 +32,7 @@ A terminal-based tool for checking the availability of Florida vanity license pl
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/plateczech.git
+git clone https://github.com/marcel0garcia/plateczech.git
 cd plateczech
 pip install -r requirements.txt
 python3 plateczech.py
